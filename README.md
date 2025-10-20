@@ -51,9 +51,11 @@ regularization_param = 5e-4;
 We thank the contributors (Haicheng Du and Ziwei Chen), advisors (An Yu and professor Jie Tian) and reviewers for their valuable feedback
 
 ## 📞 Contact
-If you have any questions about the code or 3D printing files, please feel free to contact us:
+If you have any questions about the code or 3D printing files, please feel free to contact us: 
+
 **Guanghui Li**  
 Email: liguanghui@buaa.edu.cn  
+
 <font color="blue">We are actively working to further optimize this encoding method and transform it into practical clinical devices. We greatly welcome any improvement suggestions, innovative ideas, or collaboration opportunities to advance this technology for clinical applications.</font>
 
 _!! We believe in open science and collaborative innovation.**Your feedback and contributions are highly valued in our journey to make MPI technology more accessible and clinically relevant**._
